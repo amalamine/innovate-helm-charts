@@ -1,0 +1,66 @@
+apiVersion: v1
+entries:
+  innovate-accounts:
+  - apiVersion: v1
+    created: 2018-07-11T14:40:21.31744969+04:00
+    description: A Helm chart for innovate bank portal
+    digest: 31a6a87e4fd91b3d16f940169f55c20816740d5c9a3bb96cf74de2994cae3b20
+    name: innovate-accounts
+    urls:
+    - innovate-accounts-1.0.0.tgz
+    version: 1.0.0
+  innovate-authentication:
+  - apiVersion: v1
+    created: 2018-07-11T14:40:21.317650059+04:00
+    description: A Helm chart for innovate bank portal
+    digest: 7a98435912a0846ac89f785ef405756925171dbd41db6095d988e6ebea7ae599
+    name: innovate-authentication
+    urls:
+    - innovate-authentication-1.0.0.tgz
+    version: 1.0.0
+  innovate-bills:
+  - apiVersion: v1
+    created: 2018-07-11T14:40:21.317830734+04:00
+    description: A Helm chart for innovate bank portal
+    digest: dffc3e3f42c91e095428720edd27480db33331f099fc4ed98a00fbdabd557351
+    name: innovate-bills
+    urls:
+    - innovate-bills-1.0.0.tgz
+    version: 1.0.0
+  innovate-portal:
+  - apiVersion: v1
+    created: 2018-07-11T14:40:21.318011209+04:00
+    description: A Helm chart for innovate bank portal
+    digest: 4188e505ee43062ee95786e5f30fae638c9619b87debb7d49716401f8fe57e1f
+    name: innovate-portal
+    urls:
+    - innovate-portal-1.0.0.tgz
+    version: 1.0.0
+  innovate-support:
+  - apiVersion: v1
+    created: 2018-07-11T14:40:21.318189536+04:00
+    description: A Helm chart for innovate bank portal
+    digest: bacf56a920beb215cba6db7e919d00562458dd44d58c0b70930c6a8cd36d5615
+    name: innovate-support
+    urls:
+    - innovate-support-1.0.0.tgz
+    version: 1.0.0
+  innovate-transactions:
+  - apiVersion: v1
+    created: 2018-07-11T14:40:21.318343736+04:00
+    description: A Helm chart for innovate bank portal
+    digest: a5723ecfd5efd77b41ce53477e09fe9fe82e61da136d1a5e3799ed089addf7f9
+    name: innovate-transactions
+    urls:
+    - innovate-transactions-1.0.0.tgz
+    version: 1.0.0
+  innovate-userbase:
+  - apiVersion: v1
+    created: 2018-07-11T14:40:21.318491908+04:00
+    description: A Helm chart for innovate bank portal
+    digest: fa795655f0c7212a7b1b91d2057e28004a1a2660e7e4a8817dc0faf2400b0bab
+    name: innovate-userbase
+    urls:
+    - innovate-userbase-1.0.0.tgz
+    version: 1.0.0
+generated: 2018-07-11T14:40:21.31523413+04:00
