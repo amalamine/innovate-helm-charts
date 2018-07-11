@@ -61,6 +61,6 @@ entries:
     digest: fa795655f0c7212a7b1b91d2057e28004a1a2660e7e4a8817dc0faf2400b0bab
     name: innovate-userbase
     urls:
-    - innovate-userbase-1.0.0.tgz
+    - https://github.com/amalamine/innovate-helm-charts/raw/master/innovate-userbase-1.0.0.tgz
     version: 1.0.0
 generated: 2018-07-11T14:40:21.31523413+04:00
